@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VynFi/VynFi.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VynFi.Tests/VynFi.Tests.csproj" />
+  </Folder>
+</Solution>
